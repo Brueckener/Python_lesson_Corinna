@@ -1,5 +1,5 @@
 # Python Einführung
 ## Autor
-Corinna
+Corinna Mescherowsky
 ## Datum
-2019-11-26
+2019-11-27
